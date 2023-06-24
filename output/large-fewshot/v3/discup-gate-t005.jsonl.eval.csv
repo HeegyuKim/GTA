@@ -1,0 +1,646 @@
+,topic,text,prompt,topic_accuracy,toxicity,grammar,loss,ppl
+0,anger,i dont mind a little bit if i dont feel,,False,0.050078966,0.9691043496131897,4.223411560058594,68.26598096976527
+1,anger,i dont feel like feeling very angry with him or me i guess just resentful of him and im not really sure,,True,0.11479026,0.07336444407701492,4.206450939178467,67.11791105805713
+2,anger,i feel more and more like i was a bad person on the inside,,False,0.12086493,0.98334139585495,3.684488534927368,39.82474827219784
+3,anger,i feel like my heart can be so violent,,True,0.11912931,0.9474337697029114,5.016737461090088,150.9181234714776
+4,anger,i feel the sense of sadness and i feel very sad i feel i feel i think i feel i'm really upset in,,False,0.05750068,0.16221435368061066,3.7103939056396484,40.86990224167063
+5,anger,"i feel that i was so frustrated and i feel a great feeling of anger but
+
+i feel so annoyed too",,True,0.10870059,0.6563998460769653,4.217678546905518,67.87573092615054
+6,anger,i felt like i should have done something about my feelings,,False,0.032156147,0.9933269023895264,3.8897182941436768,48.89710998111766
+7,anger,i really hate myself,,True,0.4475325,0.9918449521064758,6.945346832275391,1038.3070531605354
+8,anger,i feel very upset,,True,0.071337044,0.9907625317573547,7.232633113861084,1383.8615760367793
+9,anger,i felt that my head felt dizziness i feel so,,False,0.13214645,0.0884588435292244,5.608786582946777,272.8130011332488
+10,anger,if i see this i get angry i get frustrated,,True,0.2524482,0.8990203738212585,4.290111064910889,72.97457296400705
+11,anger,i feel like someone is very angry,,True,0.10175867,0.9869629740715027,4.958745956420898,142.41508913927566
+12,anger,i feel so angry that i would be angry with a random person,,True,0.1991664,0.9631681442260742,4.036937236785889,56.65256343151395
+14,anger,i feel like i need to do a selfless activity,,False,0.15324512,0.9938198924064636,4.276648998260498,71.99876731615214
+15,anger,i feel i am becoming angry sometimes,,True,0.113263406,0.9901109337806702,6.399198532104492,601.3628716423436
+16,anger,i can't believe she doesnt want to come out now,,False,0.06817148,0.9866083860397339,4.071208953857422,58.62779806747989
+17,anger,i take it i feel anxious and i just feel a little bit jealous too,,False,0.053295042,0.5159459710121155,4.600795269012451,99.56346390329712
+18,anger,i feel like my dream is i just don't feel so,,False,0.02402467,0.0858151912689209,4.626163959503174,102.12156930336225
+19,anger,i have not experienced anxiety before,,False,0.026735162,0.9866191744804382,5.685160160064697,294.46500280819225
+20,anger,i feel more angry at the time i felt this i was really upset with myself,,True,0.112436704,0.4228453040122986,4.243443965911865,69.64730220728234
+21,anger,i thought i had not enough space for myself,,False,0.032863233,0.7194740176200867,5.006926536560059,149.4447167115986
+22,anger,i see that i am a person very angry about being,,True,0.1104733,0.3589320480823517,4.944067478179932,140.33991977547436
+23,anger,i feel really furious and frustrated about the unfair treatment i'm being given,,True,0.10002319,0.9916594624519348,4.561208248138428,95.69903818916325
+24,anger,i feel angry to know i feel so stupid all the time,,True,0.4850187,0.9808632135391235,4.4815993309021,88.37590202042225
+25,anger,i feel very upset,,True,0.071337044,0.9907625317573547,7.232633113861084,1383.8615760367793
+26,anger,and i feel so angry that i am so bored,,True,0.11316007,0.9852360486984253,4.268138408660889,71.38861541483698
+27,anger,i feel i get angry about it i want to scream,,True,0.23739935,0.1530473232269287,4.690302848815918,108.88615085639913
+28,anger,i see what i feel,,False,0.023317585,0.9756286144256592,6.323124885559082,557.3118098602863
+29,anger,i feel that i have got some time left to work and i would prefer,,False,0.017592486,0.5061306953430176,3.970111846923828,52.99045732788461
+30,anger,i feel i feel like i might just have to kill myself soon so i cant sleep,,False,0.584095,0.5400127172470093,3.881310224533081,48.48770324872818
+31,anger,i feel like a crazy person in my head,,False,0.28087774,0.9641541838645935,3.829024076461792,46.017606647384866
+32,anger,i feel more in it at the present time,,False,0.019728716,0.9576582908630371,4.639009475708008,103.44183517060038
+33,anger,i just feel i should feel anger about this at the moment,,True,0.081625134,0.9891787767410278,4.737456798553467,114.14354221236468
+34,anger,i feel really anxious when i see it,,False,0.045378547,0.9889079928398132,5.034966945648193,153.6945122554002
+35,anger,i feel like i can do better than them,,False,0.08795626,0.993367612361908,3.5210840702056885,33.821073015207844
+36,anger,i feel i am just more aggressive as a person,,True,0.25462922,0.9724365472793579,4.906553745269775,135.17277098285902
+37,anger,i'm still trying to think it is like a dream i cant feel anything,,False,0.03192045,0.5329693555831909,4.397069931030273,81.2125613011367
+38,anger,i see those words for him i feel extremely angry,,True,0.112953395,0.6004756689071655,6.352917671203613,574.1654936361263
+39,anger,and i feel like i am in trouble,,False,0.04166769,0.9878734946250916,3.562936544418335,35.26660719520534
+40,anger,i like to feel angry but i cant,,True,0.11129999,0.9900445938110352,5.406230449676514,222.79018400993
+41,anger,i feel really unhappy when i can't understand a song of yours,,False,0.19124292,0.9896172285079956,4.650750160217285,104.66347050707499
+42,anger,i got mad at some of those things i was angry about,,True,0.11347008,0.9573479294776917,4.651665210723877,104.75928670042656
+43,anger,i feel i really like her because i feel angry with myself for not being able to,,True,0.112333365,0.9482976794242859,3.505460023880005,33.29675763341932
+44,anger,i feel so angry now,,True,0.112540044,0.9917246699333191,6.181793689727783,483.85907149878017
+46,anger,i see them more i feel really angry with myself than i feel anger with others,,True,0.1693855,0.6999386548995972,4.766510009765625,117.5084222531497
+47,anger,i feel angry about my own behavior i hate the world in general,,True,0.37751234,0.9912332892417908,4.735427379608154,113.91213203883167
+48,anger,i feel like we need a hug,,False,0.040925518,0.9320562481880188,4.714288234710693,111.52940016028782
+49,anger,i take it the first time i go to the store,,False,0.025320992,0.9056357741355896,3.7157649993896484,41.09000889575299
+50,anger,i feel i feel a more angry person,,True,0.1140901,0.04437549039721489,6.315837383270264,553.2651616583563
+51,anger,i feel more angry than i had ever felt,,True,0.104795754,0.9855237603187561,4.570235252380371,96.5668246762423
+52,anger,i have no doubt that my experience was very painful and very unpleasant,,False,0.083999306,0.9906399250030518,3.9226253032684326,50.53293506797138
+53,anger,i feel very angry i have lots of anger,,True,0.11450345,0.8864392042160034,5.264654159545898,193.3794187954457
+54,anger,i feel angry but im still not being mean,,True,0.102626406,0.9848905205726624,6.19329833984375,489.45784503418776
+55,anger,im a little mad i cant stop angry and angry,,True,0.20149297,0.2885696589946747,5.574402332305908,263.59196814537097
+56,anger,i want the man to feel i hate him with my own hands so badly that he would be afraid to walk on foot and run,,True,0.53579444,0.8163113594055176,3.8421852588653564,46.62725581409541
+57,anger,i feel like the anger I feel at others has gone too far,,False,0.09351514,0.9935418367385864,3.9503796100616455,51.95508576515257
+58,anger,i felt anger i felt it i felt so mad,,True,0.14429577,0.6664498448371887,5.378000736236572,216.58882408998477
+59,anger,i feel that im just angry at myself,,True,0.15822013,0.9716039299964905,5.34269380569458,209.07516024078447
+60,anger,"i feel so furious, i feel it i feel like screaming at the top",,True,0.121732734,0.4478723704814911,4.014867305755615,55.415941538107646
+61,anger,i can get very angry on this page i see the things that i can do,,True,0.27525392,0.947930097579956,4.244729042053223,69.7368618267989
+62,anger,i feel like i have lost my soul,,False,0.10522962,0.9934648871421814,4.004421710968018,54.840101798155374
+63,anger,"i feel like that person with the bad manners
+i really want to talk to him right now, even though im scared
+i feel very angry",,False,0.1537979,0.9610978364944458,3.729509115219116,41.6586535449921
+64,anger,i see this as more of a feeling about his being my equal than being my mate,,False,0.037577134,0.9583145976066589,4.483821392059326,88.57249702170316
+65,anger,i really think i could be very upset about things,,False,0.059727192,0.9801399111747742,5.118845462799072,167.14228619429272
+66,anger,"i feel like a bad person for wanting to be nice
+i feel very angry i feel very pissed out i felt like an idiot and im so angry",,False,0.5559701,0.9413700699806213,3.6700026988983154,39.25201179735006
+67,anger,i cant stop my emotions,,False,0.03357032,0.9920864701271057,6.839747905731201,934.2535850656977
+68,anger,i am annoyed,,True,0.112953395,0.9880335927009583,8.562376976013184,5231.100606920762
+69,anger,i feel like i have a heart,,False,0.027913637,0.9790661931037903,4.384706020355225,80.21463827545915
+70,anger,i feel like I feel more i think im a giver if i have been,,False,0.03062413,0.20403455197811127,4.8557586669921875,128.47812636332105
+71,anger,i can be in a good mood now i think,,False,0.025674535,0.9842939972877502,4.043979167938232,57.05291485196157
+72,anger,and i am thinking i should do it,,False,0.029799197,0.9893998503684998,3.9779090881347656,53.40525173003315
+73,anger,i get angry with people in general when I feel a very good and strong person at an airport and i feel very good for being there,,False,0.11140333,0.2924485504627228,4.275369167327881,71.90668000729349
+74,anger,i feel i was in control of the experience,,False,0.024967449,0.992611825466156,4.394577503204346,81.0103968982835
+75,anger,i felt like i was a good person i felt so,,False,0.024849601,0.3968632221221924,4.138944149017334,62.736546023104324
+76,anger,i feel a lot of anxiety,,False,0.032863233,0.9931198358535767,4.491507530212402,89.25590047261102
+77,anger,i feel resentful i felt angry at my husband,,True,0.20312156,0.8881487250328064,5.285840034484863,197.5200374197605
+78,anger,i felt so upset today when i heard about how much i dont feel,,False,0.07608539,0.9820476770401001,4.47959041595459,88.1985405615454
+79,anger,i feel frustrated,,True,0.091913216,0.9900392889976501,9.382932662963867,11883.814924557339
+80,anger,i feel im not happy or unhappy and dont know how i did,,False,0.03875561,0.9541232585906982,4.982456684112549,145.83220560604633
+81,anger,i dont think i ever feel this way before,,False,0.023906821,0.97971111536026,3.859323263168335,47.43324068382141
+82,anger,i feel angry to my self for not feeling so angry i feel,,True,0.112436704,0.08145305514335632,4.9587860107421875,142.42079359325572
+83,anger,im a selfish person with feelings,,True,0.200795,0.9691437482833862,6.207757949829102,496.58663009653196
+84,anger,i feel a certain type of way,,False,0.02107848,0.9902580976486206,4.41840934753418,82.96421311550453
+85,anger,i dont know what my mind is up to,,True,0.032391842,0.9946379065513611,3.880497694015503,48.448321511709565
+86,anger,im feeling like i have to get away from him now,,False,0.112643376,0.9894552826881409,4.162178993225098,64.21128623030549
+87,anger,i feel like i am really being very greedy and angry at people sometimes,,True,0.23739935,0.9855901598930359,4.845746994018555,127.1982628557762
+88,anger,i feel like I dont know what to do with myself,,False,0.03781283,0.9927353858947754,2.930022954940796,18.72806039325632
+89,anger,i feel quite angry and i want something,,True,0.15103401,0.9898764491081238,6.032233238220215,416.6444575052413
+90,anger,i felt angry i think thats a very small thing,,True,0.0926474,0.8444363474845886,5.861519813537598,351.25758458437303
+91,anger,i feel i was very happy with my feelings today and also feeling very depressed,,False,0.03357032,0.36309710144996643,4.784167766571045,119.60178504984077
+92,anger,i feel like my head feels like a balloon with some people inside,,False,0.2553839,0.9441999793052673,3.9981768131256104,54.49869808992488
+93,anger,i feel like a little angry,,True,0.08953904,0.020333226770162582,5.431397438049316,228.46829273298636
+94,anger,i felt very angry and a feeling i wanted to,,True,0.147767,0.10058534890413284,5.009975433349609,149.90105353703674
+95,anger,i dont feel i am angry at everyone,,True,0.07608539,0.9865375757217407,5.336761951446533,207.8386279538076
+96,anger,i feel angry and frustrated i feel quite annoyed,,True,0.17891699,0.9716925024986267,5.719810485839844,304.84714463158525
+97,anger,i dont want my life to change because i am,,False,0.0665887,0.8108550906181335,3.5812857151031494,35.91969366366216
+98,anger,i feel like i might get angry with the other people on the street,,True,0.18554166,0.9907474517822266,4.073829174041748,58.781617239383905
+99,anger,i feel like i feel angry but not very,,True,0.061444655,0.7102881669998169,5.175540924072266,176.89227369089704
+100,fear,i feel the feeling,,False,0.019980038,0.8663716316223145,6.472503185272217,647.101516292318
+101,fear,i am not sure it is really that scary but i can feel,,True,0.033806015,0.6493710875511169,3.7445144653320312,42.28846971530417
+102,fear,i feel like i was going crazy because we are both scared i didnt know,,True,0.19029272,0.43679144978523254,4.344996929168701,77.09180074302404
+103,fear,i have an inner tension about what i am,,False,0.036870047,0.842872679233551,5.3061347007751465,201.5695938721295
+104,fear,i feel uneasy when i feel i'm not the most comfortable to have a voice but i love it,,True,0.045131154,0.4837923049926758,4.080533027648926,59.17700442427435
+105,fear,i feel more comfortable in a quiet space,,False,0.040925518,0.9912965297698975,4.3348493576049805,76.31346198114345
+106,fear,i feel a little awkward with how my own thoughts,,False,0.08479069,0.05052608996629715,4.552720069885254,94.89016547877607
+107,fear,i feel uncomfortable around other people,,True,0.19314334,0.9917522072792053,5.150862216949463,172.58022778319437
+108,fear,i feel that im a bit like i feel a bit lonely but also not i feel i have no clue where to start i think and i want to explore my feelings,,False,0.034277402,0.26229530572891235,3.5510833263397217,34.85105210717265
+109,fear,i feel uncomfortable in public with a big head,,True,0.37751234,0.7721691131591797,4.7468085289001465,115.21598863896966
+110,fear,"i feel confused about why i feel this way
+i felt so lonely",,True,0.033806015,0.9624433517456055,4.775744915008545,118.59862762150779
+111,fear,"im just a bit concerned i dont feel it too much i feel a little nervous i might be overreacting
+i feel like ill feel nervous and then",,True,0.06104896,0.5360466241836548,3.9278273582458496,50.79649510691359
+112,fear,"its my body and my mind thats my responsibility
+the only place i feel secure is at home but i dont like feeling lonely but when a lot of people do",,False,0.024849601,0.6377285718917847,3.919908285140991,50.39582252034678
+113,fear,i feel confused by my experience here and feel like it would really help,,True,0.02072494,0.9904451370239258,4.322356700897217,75.3660343641941
+114,fear,i am nervous and feel like i can't relax,,True,0.044636376,0.9929088354110718,4.066728115081787,58.365684040475436
+115,fear,i felt very unsure when i did not feel sure of myself,,True,0.025556687,0.8541416525840759,4.78270149230957,119.42654453751884
+116,fear,i get worried that i could end things and end with you but then i want to,,True,0.34328604,0.791535496711731,4.445364475250244,85.23093674387565
+117,fear,i feel like maybe not feeling it is just the feeling i'm afraid of feeling?,,True,0.02449606,0.8742406368255615,4.291532039642334,73.07834169714022
+118,fear,"i am feeling scared as fuck, the day before i felt anxious and nervous,",,True,0.6289369,0.8920276165008545,4.5005106925964355,90.06311412357361
+119,fear,it does make you feel more comfortable feeling vulnerable about others,,True,0.022256956,0.9609102606773376,4.428345680236816,83.79268229586982
+120,fear,i am unsure i could do but i dont feel sure,,False,0.018849092,0.7555315494537354,4.688980579376221,108.74226917285552
+121,fear,i feel uncertain in the moment,,True,0.023906821,0.8329433798789978,5.837674140930176,342.980687504845
+122,fear,"i feel confused and uncomfortable
+it is a strange mix",,True,0.07845957,0.9781324863433838,5.777664661407471,323.00398525828035
+123,fear,i am a bit uncomfortable about what i do in class,,True,0.05651112,0.992567777633667,4.6904497146606445,108.90214368729525
+124,fear,i feel anxious and worried,,True,0.037577134,0.9893425703048706,6.225603103637695,505.52783621345503
+125,fear,i find myself being a really anxious little lamb,,True,0.2648175,0.9877437949180603,5.851161956787109,347.6380863228006
+126,fear,i feel vulnerable now,,True,0.034748793,0.9910775423049927,7.904049396514893,2708.2268383033615
+127,fear,i have the desire to feel it in others not my self,,False,0.37458646,0.642611563205719,5.03152322769165,153.16614200495408
+128,fear,i feel uncomfortable around others,,True,0.15490346,0.9901432991027832,6.394604682922363,598.6066370165474
+129,fear,i feel uncomfortable but i have a bit of hope for a change to what i know i am,,True,0.03062413,0.9624596834182739,3.9612033367156982,52.520487770268545
+130,fear,i feel i may be a little too much i feel i feel i was unsure to even try or not i can feel a little nervous,,True,0.03969839,0.2369893342256546,3.879491090774536,48.39957781115575
+131,fear,i think i might have felt too afraid to try,,True,0.027324399,0.9919337034225464,4.550783157348633,94.7065494091967
+132,fear,i feel unsure that i'm good enough,,True,0.03639866,0.9735084176063538,5.180783748626709,177.82212423862137
+133,fear,i feel hesitant to do it,,True,0.031449065,0.9922687411308289,5.347962856292725,210.1796952088025
+134,fear,i feel i could tell that i feel afraid,,True,0.039462693,0.6811621189117432,5.481210231781006,240.1371532000233
+135,fear,i get that i am nervous in my own body or a little uneasy,,True,0.08479069,0.3263202905654907,4.969547748565674,143.96176573131197
+136,fear,i feel a slight sense of loss of identity about the body i feel as if i have always wanted,,False,0.06065326,0.9778972268104553,3.860332727432251,47.481147021013044
+137,fear,i see myself as the person that i hope i can relate to in the future,,False,0.025556687,0.9921924471855164,3.5151541233062744,33.62110932115466
+138,fear,i am thinking in terms of fear,,True,0.04785245,0.9926361441612244,4.952149868011475,141.4787979449316
+139,fear,"i feel like i need to be brave
+~ i feel like i need my confidence to be able i feel a bit uncertain but i am unsure about what i need",,False,0.029092113,0.6603675484657288,3.7574663162231445,42.83974598712474
+140,fear,i feel nervous and anxious but it feels kind of scary,,True,0.044636376,0.9891547560691833,4.794101715087891,120.79582396631488
+141,fear,i do not believe i really need to,,False,0.021903414,0.9876157641410828,4.5784912109375,97.36737649288746
+142,fear,i feel very unsure of who i should be,,True,0.026499467,0.9908028841018677,4.850664138793945,127.82525537260416
+143,fear,"i like what i do, and i feel I really do want more than the world needs",,False,0.034277402,0.9734679460525513,4.074018478393555,58.79274590865308
+144,fear,i felt uneasy about asking for guidance but i feel i must,,True,0.029327808,0.9901461005210876,5.1823883056640625,178.10767901266087
+145,fear,i am not afraid of feeling awkward,,False,0.17371799,0.9916491508483887,4.949021339416504,141.0368691338951
+146,fear,i feel anxious and scared sometimes,,True,0.04785245,0.993506669998169,6.031354904174805,416.27866516083435
+147,fear,maybe i felt i should be able to say,,False,0.022374803,0.920863926410675,3.8384830951690674,46.454953223359446
+148,fear,feel more confident with each step i took i felt a bit anxious to feel a little more confident than i normally would with my confidence but i feel now i felt more,,False,0.022256956,0.19995787739753723,3.337052583694458,28.13607564437853
+149,fear,i feel nervous and scared,,True,0.05378982,0.9907435774803162,6.063663482666016,429.9476609962892
+150,fear,i feel uneasy i dont know and just dont wanna know,,True,0.04785245,0.698832631111145,5.023837089538574,151.99339858458436
+151,fear,i find it hard to be brave and open,,False,0.042657252,0.9920846223831177,3.9755513668060303,53.27948534826283
+152,fear,i wonder what would happen if you could,,True,0.025674535,0.9867551922798157,3.245250701904297,25.668144306313053
+153,fear,i feel more and more unsure,,True,0.025320992,0.9159513115882874,5.385519504547119,218.2234427357435
+154,fear,i do feel unsure,,True,0.026145924,0.9870654344558716,8.689314842224121,5939.111619851761
+155,fear,i wonder why i am so afraid,,True,0.031449065,0.9896699786186218,4.601692199707031,99.65280549074724
+156,fear,im curious as i feel anxious in my mind,,True,0.036870047,0.6819955706596375,5.83154821395874,340.8860352544297
+157,fear,i felt like maybe i am more comfortable with it,,False,0.036870047,0.9643043279647827,4.734062671661377,113.75678127532547
+158,fear,i like to know what is going to happen and to get some information i am a very slow learner,,False,0.038048524,0.6226508617401123,3.2854530811309814,26.7210883935653
+159,fear,i do feel uneasy because of that,,True,0.06817148,0.983207106590271,5.400939464569092,221.61451742413624
+160,fear,just a little bit unsure i am unsure about my life,,True,0.039462693,0.5986911058425903,4.702038764953613,110.17155755058263
+161,fear,"i think i feel uneasy but am unsure
+--- ~~ --- ---
+i feel like it doesnt feel like my life is in danger, i am still okay.",,True,0.024731753,0.6560762524604797,4.1764607429504395,65.13491557212713
+162,fear,i feel like if i felt comfortable to ask for help i wouldnnt be feeling so confused,,False,0.03357032,0.9888942837715149,4.128586292266846,62.09008362845917
+163,fear,i felt like im getting into the feeling of wanting my feelings to feel,,False,0.035691574,0.15326105058193207,4.55429744720459,95.03996118474576
+164,fear,i am so worried about what i may feel about this,,True,0.02968135,0.9917539358139038,4.311883449554443,74.58082596343874
+165,fear,i feel uncomfortable in social situations which make sense as i dont feel comfortable in them i feel awkward and awkward,,True,0.12867521,0.8831585049629211,3.854780912399292,47.21827087029362
+166,fear,i think to feel vulnerable but i am afraid or afraid of feeling self-conscious,,True,0.034984488,0.22633787989616394,4.584294319152832,97.93405256632312
+167,fear,"i'm feeling a little anxious, but not to worry",,True,0.035691574,0.9712438583374023,3.4024243354797363,30.0368312050007
+168,fear,i felt a lot like being on a road trip,,False,0.037577134,0.8804087042808533,3.6798956394195557,39.64225676776418
+169,fear,im unsure if i feel like i can,,True,0.02035702,0.9850478172302246,4.533773899078369,93.1092839103108
+170,fear,i feel unsure about myself but also uncertain about my life,,True,0.03309893,0.9872012138366699,4.572358131408691,96.77204211200464
+171,fear,i am afraid to feel my fear again,,True,0.044388983,0.9931042790412903,5.253316402435303,191.19931202883967
+172,fear,"if i think of it maybe that is why i start having thoughts of fear
+i can't remember what else i said",,True,0.033806015,0.7541636824607849,4.129277229309082,62.132998791324184
+173,fear,i feel i might not trust the future to be honest,,False,0.09033044,0.9214172959327698,5.273043632507324,195.00859460839536
+174,fear,i see myself like a child and i see myself as vulnerable,,True,0.104795754,0.9888262748718262,4.611423015594482,100.62724193546025
+175,fear,i feel like i may not be ready for some of this,,False,0.038519915,0.9911722540855408,3.59358286857605,36.36413070395785
+176,fear,i start to feel anxious,,True,0.038991302,0.9829115867614746,5.323823928833008,205.16692761351695
+177,fear,i am feeling a lot more afraid than i should be,,True,0.040430736,0.9912788271903992,4.312735080718994,74.64436837261464
+178,fear,i feel very confused with myself about my life i,,True,0.030977672,0.7018778920173645,5.128284931182861,168.7274904927514
+179,fear,i feel a little anxious,,True,0.034748793,0.9927886128425598,5.33453369140625,207.37602503551696
+180,fear,"i feel a strong desire to share with you this feeling, i'm not sure if that's true but i do",,False,0.024142517,0.9853000044822693,3.216733694076538,24.9465040483276
+181,fear,i feel very nervous,,True,0.04067813,0.9918844699859619,7.108322620391846,1222.095907130271
+182,fear,i feel uneasy that the feeling is too strong,,True,0.050326355,0.8772048354148865,5.007471561431885,149.5261899996368
+183,fear,i am worried that i will be abandoned,,False,0.04760506,0.9942564368247986,4.735787868499756,113.9532034995082
+184,fear,"i feel uneasy and uneasy about things
+i feel nervous and unsure",,True,0.06896287,0.7815888524055481,5.0197272300720215,151.37000897587006
+185,fear,i feel that i am not as good at muay thai as you,,False,0.2855005,0.989021897315979,3.340571641921997,28.23526255275957
+186,fear,"i have a feeling i am not as adept as i think i might be
+i have a feeling i am less comfortable",,False,0.08795626,0.8989578485488892,3.665548324584961,39.07755747513047
+188,fear,my feeling this could be a part of the experience,,False,0.016838523,0.49107998609542847,3.8504791259765625,47.01558422365711
+189,fear,i feel uncertain,,True,0.024849601,0.9844569563865662,9.613883018493652,14971.190777324504
+191,fear,i feel like maybe we have a relationship,,False,0.059974585,0.9797961711883545,4.788272380828857,120.09371313887918
+192,fear,i just feel uneasy when i think about my body,,True,0.10566349,0.9872526526451111,4.705212116241455,110.52172591437923
+193,fear,i feel afraid of what i do,,True,0.039462693,0.9915407299995422,5.328181743621826,206.06295803414795
+194,fear,i'm feeling like a lot of my confidence is drained because i cant do anything about it,,False,0.04240986,0.9833593368530273,3.505692958831787,33.30451451544256
+195,fear,i feel nervous about being the first,,True,0.028856417,0.9926625490188599,4.848692417144775,127.57346785829436
+196,fear,i feel uncomfortable at school,,True,0.09828771,0.9923753142356873,6.574051380157471,716.2658379871586
+197,fear,i feel unsure what to think and maybe afraid that i might have a brain defect,,True,0.24282593,0.9534589648246765,4.338379383087158,76.58332648061649
+198,fear,im not sure i feel the same as i thought,,False,0.0201057,0.9433188438415527,3.8744218349456787,48.15484879030385
+199,fear,"i feel unsure i could get over being unsure
+in some way i hope you are
+i feel unsure if it is me or it is you who feels unsure and",,True,0.077668175,0.40280821919441223,4.020557880401611,55.732189051639274
+200,joy,i feel a lot of good vibes for the future of this nation,,True,0.033806015,0.991436779499054,3.5133743286132812,33.56132386791025
+201,joy,i feel like im so excited in a way,,True,0.11419344,0.9832496047019958,4.918828964233398,136.8422721271907
+202,joy,i am feeling better at work,,True,0.01834645,0.9926196932792664,5.882404327392578,358.67056730945
+203,joy,i feel like i can make this a real work for a couple years in a row,,True,0.02107848,0.15750591456890106,3.699542760848999,40.42881449642843
+204,joy,i felt a little less comfortable than we had hoped i might,,True,0.027324399,0.9897312521934509,4.585204601287842,98.02324077183988
+205,joy,i feel good for that,,True,0.022610499,0.9647121429443359,5.774596214294434,322.0143836587558
+206,joy,"i feel like we're a little more than one person
+i think i am feeling like i should get more credit and respect but i would just like to be appreciated",,True,0.025320992,0.6734781265258789,3.5966737270355225,36.47670096471782
+207,joy,i felt so thankful to not just have been able to experience the experience,,True,0.020960633,0.6970734596252441,3.63839054107666,38.0305787881651
+208,joy,i can imagine the kind of things i might be thinking on the train,,True,0.03357032,0.9920439720153809,4.034835338592529,56.53361056798678
+209,joy,i got pretty good at that,,True,0.034748793,0.989314079284668,4.085045337677002,59.44463277171053
+210,joy,i feel so excited and happy,,True,0.10696511,0.9909871220588684,4.813755035400391,123.19334544560648
+211,joy,i feel a deep joy in the knowledge we all have been so lucky,,True,0.019351736,0.976841151714325,4.218879222869873,67.95727663002343
+212,joy,i feel so grateful that you could meet us,,True,0.028031485,0.992233395576477,4.702489376068115,110.2212132657853
+213,joy,"i have always felt so special as a baby
+i have always felt so special for my brothers and sisters and friends
+i have always felt so special to all our",,True,0.025320992,0.6819955706596375,2.8673901557922363,17.591048343221082
+214,joy,i feel so lucky and so lucky i hope we all live happy together,,True,0.021667719,0.591821014881134,4.603970050811768,99.88005846978861
+215,joy,i feel good about our ability,,True,0.021549871,0.9874070882797241,4.749523162841797,115.5291827837442
+216,joy,i think i might have a little more compassion and i feel less lonely,,False,0.05205809,0.9547847509384155,4.415821552276611,82.74979627135937
+217,joy,i feel like im not being judged and can be,,True,0.028031485,0.6816613674163818,4.578272342681885,97.34606819698047
+218,joy,"i feel so happy in this moment, because we are truly working together",,True,0.022610499,0.9847235679626465,3.7419967651367188,42.18213394380903
+219,joy,i feel so great for the people that got a big bonus as well,,True,0.022610499,0.9802390336990356,4.365254878997803,78.66944857689134
+220,joy,i feel like i got a taste of something special,,True,0.043646812,0.9942609071731567,3.8070340156555176,45.01672177092693
+221,joy,i am so grateful for how they were so much into it,,True,0.02449606,0.06554336100816727,4.130372047424316,62.2010603746836
+222,joy,i feel like my head will explode,,False,0.26104406,0.9925901889801025,4.324323654174805,75.51442172016228
+223,joy,i feel like we really have a chance to do good,,True,0.021196328,0.9931207299232483,3.4625637531280518,31.898652040938693
+224,joy,i feel so grateful for that beautiful day,,True,0.026499467,0.9929829835891724,5.026418209075928,152.38621845465414
+225,joy,i feel as though we may be all different,,True,0.02343543,0.9847478270530701,4.73145055770874,113.4600233512412
+226,joy,i feel like i am a little less self focused and I feel so good at being happy and productive,,True,0.023906821,0.9550656676292419,4.080270290374756,59.16145846177971
+227,joy,i feel like she is so happy it was me,,True,0.04166769,0.9767580628395081,4.48257303237915,88.46199567471233
+228,joy,i feel like my life is so full of opportunity to find happiness,,True,0.027324399,0.9748088121414185,3.8105010986328125,45.17306935908647
+229,joy,i feel it so nice to see the sun,,True,0.026263772,0.9584137201309204,4.623504638671875,101.85035606812669
+230,joy,i feel so grateful to be able to say it i hope i can get more jobs here,,True,0.021314176,0.9411153197288513,3.8959462642669678,49.20258999398934
+231,joy,i feel so much more like a person if you ask me,,True,0.044388983,0.8537601828575134,3.5227744579315186,33.87829208949272
+232,joy,i love her more than the next person could,,True,0.044388983,0.9833592176437378,4.5127272605896,91.17012444647743
+233,joy,i feel like my heart is going to burst at the sight,,True,0.15435068,0.856536865234375,2.940342664718628,18.92232921607701
+234,joy,i feel like the more we make,,True,0.025320992,0.19102202355861664,4.763591289520264,117.16594807839867
+235,joy,"i feel so relieved, and just so much joy",,True,0.025085296,0.9523198008537292,4.481678485870361,88.38289768900908
+236,joy,i feel so very grateful for the amazing service that it provides to her,,True,0.038048524,0.9494653344154358,4.1223297119140625,61.702824752527356
+237,joy,i felt like i should make a wish with my head,,True,0.112643376,0.9772467613220215,4.590008735656738,98.49529057923701
+238,joy,i feel that my life would be better if i hadn't gotten sick that day,,True,0.12086493,0.9942770600318909,3.4575963020324707,31.74058995477446
+239,joy,i feel so grateful that i had the privilege of seeing a world-class,,True,0.04166769,0.8442761301994324,3.6004350185394287,36.61415881761916
+240,joy,i just feel like i got really strong and happy,,True,0.028149333,0.9275201559066772,4.918050765991211,136.73582313614529
+241,joy,i feel very grateful i feel confident i am in the right place for a career,,True,0.0201057,0.9713989496231079,3.725583553314209,41.4954404827092
+242,joy,i feel like i can get a lot happier than i had originally planned to,,True,0.026028076,0.9891573190689087,3.917515277862549,50.27536913065282
+243,joy,i feel so relieved to hear that they chose for a different generation,,True,0.023671126,0.5036700367927551,4.971046447753906,144.17768286975576
+244,joy,i feel like im feeling the greatest,,True,0.03015274,0.9807706475257874,5.976789951324463,394.17302053731686
+245,joy,i just wanted them to know just how great the work you guys are doing is,,True,0.03062413,0.9933227896690369,3.052506923675537,21.168345386318283
+246,joy,i feel i should feel like they will be good in love i felt,,True,0.07291982,0.12503202259540558,5.116257190704346,166.71023585220678
+247,joy,i feel good today,,True,0.02107848,0.9926055669784546,6.832387924194336,927.4027379086125
+248,joy,i feel so happy that this is my year,,True,0.023553278,0.9898837208747864,4.506818771362305,90.63303500441829
+249,joy,i am pretty sure that they are a happy couple,,True,0.026499467,0.9910783171653748,3.7537083625793457,42.67905832509098
+250,joy,i feel so thankful for her work for me,,True,0.017843807,0.9640578627586365,4.755387306213379,116.20865278279189
+251,joy,i feel that there is a light in our hearts to share the joy we feel on earth,,True,0.022846194,0.9505826830863953,3.686332941055298,39.89826906221003
+252,joy,i look so good tonight,,True,0.03545588,0.9893447756767273,5.864490985870361,352.30278336530756
+253,joy,i feel so thankful to feel so excited about the outcome of the challenge,,True,0.026028076,0.9834875464439392,4.262652397155762,70.99804895493305
+254,joy,i feel that a very special part of me is coming into bloom here again,,True,0.05378982,0.9896233677864075,4.274325847625732,71.83169747350485
+256,joy,i could imagine the future,,True,0.02543884,0.9927366971969604,5.24582576751709,189.77245847701437
+257,joy,"i feel so much more confident
+and i feel better about life",,True,0.021903414,0.9430779814720154,4.5382866859436035,93.53041578827207
+258,joy,i am just a little nervous about how our conversation will go,,False,0.032156147,0.9936089515686035,3.768143653869629,43.2996111184356
+259,joy,"i feel pretty proud that i am the first one to go
+(maybe it wasnt because of my new role on youtube? i dunno)",,True,0.045625936,0.7533119916915894,3.959766149520874,52.44506021252227
+260,joy,i have been feeling like I have an easy life,,True,0.054531995,0.983803391456604,4.195905685424805,66.41385440694134
+261,joy,i feel like it really is a beautiful moment,,True,0.03062413,0.9772086143493652,4.5259904861450195,92.38738895343424
+262,joy,i get goosebumm,,False,0.28674445,0.8472055792808533,8.605668067932129,5462.534023441705
+263,joy,i feel like i am in love with my body,,False,0.2540519,0.9919819235801697,3.6076126098632812,36.877905687597206
+264,joy,i felt grateful i got to know a little bit more about your heart,,True,0.034277402,0.9704602360725403,4.1877217292785645,65.87254438499237
+265,joy,i feel as though this is how all good things start,,True,0.023317585,0.9941809773445129,3.8745200634002686,48.15957919900809
+266,joy,i feel so lucky for that moment,,True,0.02449606,0.33970609307289124,4.891053676605225,133.09373795258557
+267,joy,i feel like there is one day in life where my own personal work is truly important,,True,0.021432023,0.9910486936569214,4.1347527503967285,62.47414245377563
+268,joy,i felt a little bit less lonely,,False,0.036162965,0.9924706220626831,4.377954483032227,79.67489026599482
+269,joy,i feel so thankful to see how she feels in a lot of those places,,True,0.030270588,0.9884064793586731,4.343045234680176,76.941487830558
+270,joy,i love being in a team i feel like im happy and excited and,,True,0.05824285,0.7579059600830078,4.452428817749023,85.83516901152434
+271,joy,"I think i need to add ""not in your face"", but in my mouth",,False,0.3972142,0.8929164409637451,3.81512451171875,45.382406672632136
+272,joy,i could give a lot of credit to our new leader to find this in her,,True,0.02308189,0.7140346169471741,3.9622883796691895,52.57750568328595
+273,joy,i feel like the world is a beautiful place today,,True,0.026617315,0.9939272403717041,3.8690109252929688,47.894990921892216
+274,joy,i really hope we get to see more of eachother,,True,0.02685301,0.9748407602310181,3.7068488597869873,40.725273074212346
+275,joy,i look like a kid at a play with everyone else,,True,0.15656179,0.917343258857727,4.215008735656738,67.69475722651104
+276,joy,i feel so happy for the opportunity to share a moment,,True,0.02343543,0.9817348122596741,4.136727809906006,62.59765453461752
+277,joy,"if I hadn't been able to hear it first hand, i might've found it to be very sad at the time",,False,0.025203144,0.9463680386543274,2.960278034210205,19.30333799780326
+278,joy,i feel so happy that i was there,,True,0.02107848,0.9881076216697693,4.679612159729004,107.72828310159261
+279,joy,i feel like i have to make something nice i think,,True,0.03062413,0.5123905539512634,4.204036712646484,66.95606865712676
+280,joy,i feel grateful and appreciates the opportunity they granted me,,True,0.019351736,0.01457651611417532,4.666585922241211,106.3340891665889
+281,joy,i feel i have a very long way to go in life,,True,0.034277402,0.9906080961227417,3.3670859336853027,28.99391364603997
+282,joy,i feel so inspired at this moment,,True,0.03357032,0.9932730197906494,5.055496692657471,156.88243334837182
+283,joy,i feel like i'm about to start over,,True,0.036634352,0.9941977262496948,3.9676389694213867,52.85958030622971
+284,joy,i feel like i had a vision of the future,,True,0.023199737,0.99289870262146,3.7255940437316895,41.49587578948667
+285,joy,i felt really grateful that the person i really felt loved me,,False,0.024967449,0.9487786889076233,4.7298903465271,113.2831397778856
+286,joy,i have been really lucky for that i am so happy,,True,0.026735162,0.2170114815235138,4.646193504333496,104.18764000959905
+287,joy,"i think my heart can see beyond the clouds at will, and that",,True,0.022846194,0.9414607286453247,4.561363220214844,95.71387001705233
+288,joy,i feel like there is hope for her soul,,True,0.032627538,0.9926332831382751,4.474016189575195,87.70826964014886
+289,joy,i feel like there is some connection,,True,0.019226074,0.9895944595336914,4.368319988250732,78.91094895509663
+290,joy,i felt really grateful for the day that i was born,,True,0.061444655,0.9866568446159363,4.353640556335449,77.76104169418808
+291,joy,i feel so excited and happy to be able to do this for the good world,,True,0.040925518,0.9366536140441895,3.5565109252929688,35.04072390671387
+292,joy,i have a feeling i am so fortunate,,True,0.025792383,0.9769764542579651,5.635711669921875,280.25829775632127
+293,joy,i felt i can be a part of something great,,True,0.02449606,0.9191814661026001,4.118321418762207,61.45599675258257
+294,joy,i'm happy that they found a way to fit this into the project and this has been accepted,,True,0.011749268,0.960794985294342,3.4783310890197754,32.40559486858484
+295,joy,i feel i will feel more comfortable with this new path,,True,0.02249265,0.9922992587089539,4.751798629760742,115.79236493492314
+296,joy,i feel like i could eat her face off and be so thankful,,True,0.584095,0.9786490797996521,4.412342548370361,82.46240960641944
+297,joy,i feel grateful she made sure i was there,,True,0.020231359,0.9852138161659241,5.9287214279174805,375.6738804923058
+298,joy,i feel like this year we are so good for eachother,,True,0.01847211,0.9722041487693787,4.606586933135986,100.1417751208246
+299,joy,i think i felt that i had to choose between feeling like an outsider or feeling like an insider,,True,0.03545588,0.9930764436721802,3.2724568843841553,26.37606273841661
+300,love,i m thinking it might be fun,,False,0.027442247,0.991885781288147,5.126341342926025,168.39987220428586
+301,love,i love this song and feel happy,,False,0.022374803,0.9891571998596191,5.289595127105713,198.26313778691065
+302,love,i think she likes a kiss,,True,0.2043827,0.9916648268699646,5.858854293823242,350.3225473016215
+303,love,i think i m feeling affectionately warm to my little friend,,True,0.25462922,0.9589171409606934,5.543392181396484,255.54338036509742
+304,love,i would feel loving and caring today,,True,0.025085296,0.9652952551841736,6.316725254058838,553.7566077717681
+305,love,im feeling sentimental,,False,0.031684756,0.8994291424751282,11.740991592407227,125616.83898819552
+306,love,"i feel a little bit like
+i feel a little bit like i like to be liked",,True,0.049336795,0.4511364698410034,3.3771724700927734,29.28784167754939
+307,love,i am very thankful i am feeling warm,,False,0.059727192,0.9602984189987183,5.785253047943115,325.4643877871245
+308,love,"i feel like it was lovemaking on the side
+and it made me happy
+i just want to share and love",,False,0.041915078,0.7181439399719238,4.13033390045166,62.19868763779095
+309,love,i feel really happy and grateful i can tell,,False,0.023317585,0.8204155564308167,4.918798446655273,136.83809609618174
+310,love,i feel a lot more than my husband's passion,,False,0.038048524,0.77309650182724,4.957071781158447,142.17686079368386
+311,love,i feel like he loves,,True,0.029917045,0.84993976354599,5.740528106689453,311.22872956273494
+312,love,i feel so very much a loving and appreciative,,True,0.02685301,0.07403644919395447,4.957311153411865,142.21089806286233
+313,love,i feel i love him to see and feel,,True,0.042657252,0.5802029371261597,5.4846086502075195,240.95462800029293
+314,love,im feeling like a beautiful and lovable young woman,,False,0.038519915,0.9871149063110352,4.53032112121582,92.78835260711352
+315,love,i want to feel grateful,,False,0.02968135,0.9915068745613098,6.018126487731934,410.8082200577696
+316,love,i feel so romantic and warm,,True,0.09438288,0.9907384514808655,5.851419448852539,347.72761189723775
+317,love,i hope i feel more sensitive now,,True,0.033806015,0.9903518557548523,6.027760028839111,414.7848818457662
+318,love,i feel like i m in a loving relationship,,True,0.0414203,0.9540953636169434,4.705349922180176,110.53695751404624
+319,love,i am feeling warm,,True,0.053295042,0.9894931316375732,7.7289204597473145,2273.1469221369857
+320,love,i want to look at the trees,,False,0.051068526,0.9930643439292908,4.463785648345947,86.81554090686997
+321,love,i feel like a lot of things i love i love,,True,0.028974265,0.9640649557113647,4.1454997062683105,63.14917005479863
+322,love,"i think i might miss him as I miss my mother and my grandparents, i m so lonely sometimes too",,False,0.02638162,0.9284223914146423,4.515854835510254,91.45571220697282
+323,love,i feel a lot like a muppet,,False,0.19504376,0.9915074110031128,4.613239288330078,100.8101745288979
+324,love,i know i might be able to feel i love again,,True,0.028620722,0.8546660542488098,4.90750789642334,135.30180778874177
+325,love,i feel i am so very fond of this,,True,0.027324399,0.9356810450553894,4.69593620300293,109.50127609266359
+326,love,i feel like we have a special moment,,False,0.02685301,0.9875814914703369,4.377607345581055,79.64723692769786
+327,love,i want him to know the truth,,False,0.023788974,0.9923769235610962,4.074687480926514,58.83209156428975
+328,love,i want a baby and am very sad and anxious when the time comes,,False,0.10175867,0.9862122535705566,3.985161066055298,53.79395315999282
+329,love,i feel like i love this,,True,0.027913637,0.9910945892333984,4.924274921417236,137.58954223573727
+330,love,"im in love with my son and i love the look
+i hope we can stay",,False,0.121732734,0.7172240614891052,4.53251838684082,92.9924574188231
+331,love,i am feeling a bit nostalgic,,True,0.03109552,0.9956517815589905,4.837472915649414,126.15015649703719
+332,love,i feel like mei will be so glad i got married later,,False,0.07608539,0.49627962708473206,4.942878246307373,140.17312226999803
+333,love,i like the music it make my heart swell,,False,0.028031485,0.22879068553447723,5.158441543579102,173.89323928528214
+334,love,i am so lonely,,False,0.038991302,0.9915148019790649,6.296472072601318,542.6540849268237
+335,love,i think we can still feel affection for each other,,True,0.02107848,0.9915561676025391,4.063972473144531,58.20507051215976
+336,love,i feel the name a little familiar as i think i m thinking about my heart,,False,0.022964042,0.8127678632736206,5.117378234863281,166.89723018321132
+337,love,i think i have to say goodbye,,False,0.03109552,0.9933757185935974,4.6177449226379395,101.26541310897936
+338,love,i think this could just be the beginning,,False,0.021667719,0.9914489388465881,3.9852442741394043,53.79842943800045
+339,love,i feel that it is time,,False,0.021667719,0.9909592866897583,4.156935691833496,63.87548821826826
+340,love,i am a bit curious at your point of view,,False,0.02638162,0.565616250038147,3.8896021842956543,48.891432874699376
+341,love,i was thinking about how i will always feel loved when i think of you tonight,,True,0.054531995,0.9805399179458618,4.2540411949157715,70.38929520927496
+342,love,i hope i get to see my dad when i am more old,,False,0.15545623,0.5729886293411255,3.7569005489349365,42.8155155152606
+343,love,i feel that he was desperately fond of me,,True,0.06025757,0.9914458990097046,4.980521202087402,145.55022296760012
+344,love,i think i am feeling sad about,,False,0.032156147,0.8272677063941956,5.216994762420654,184.37924718725384
+345,love,i am very nostalgic about the summer,,True,0.02308189,0.9933772683143616,5.136101722717285,170.0515663826711
+346,love,i am very fond of my friends,,True,0.029445656,0.9933323264122009,4.276708126068115,72.00302457127454
+347,love,i feel the heart of mike,,False,0.01426248,0.7613543272018433,5.451061725616455,233.00542245092134
+348,love,im feeling that he feels loved today,,True,0.0466155,0.290421724319458,6.520378112792969,678.835013022019
+349,love,i feel like i am feeling tender,,True,0.04240986,0.9768970608711243,5.9455885887146,382.0641737910746
+350,love,i think i am longing today,,True,0.028502874,0.592064380645752,7.139686584472656,1261.0330998026643
+351,love,i think i might feel tender,,True,0.036162965,0.9734139442443848,6.917787075042725,1010.0822832110576
+352,love,"i would feel if i could
+i would feel if i had",,False,0.024849601,0.6657912135124207,4.336427211761475,76.43396854021309
+353,love,im still getting a bit wet,,True,0.27750343,0.9497511982917786,5.707292079925537,301.05473134351877
+354,love,i feel very much for mr,,True,0.019980038,0.9904963970184326,5.317317485809326,203.8363540332666
+355,love,in a moment i think,,False,0.021314176,0.5340245962142944,5.442305564880371,230.9740958093796
+356,love,i feel the name of my child,,False,0.033806015,0.8461557626724243,5.116299152374268,166.71723143886842
+357,love,i feel like i might have forgotten some things from her story,,False,0.02048268,0.9861765503883362,4.172990322113037,64.90926178715964
+358,love,i can feel him touching my lips and my fingers,,True,0.37073207,0.9705138206481934,4.547066688537598,94.3552287126964
+359,love,i am feeling very much like me,,False,0.030506283,0.9882434010505676,4.936328887939453,139.2580780059361
+360,love,i feel my heart feelin very tender at the end,,True,0.043399423,0.7964696288108826,5.609663486480713,273.05233673982906
+361,love,i feel like i was more grateful,,False,0.021785567,0.9882104396820068,5.385051727294922,218.12138664495538
+362,love,i feel like mike is a bit warm,,False,0.15932569,0.9489747881889343,5.099252700805664,163.89937964883273
+363,love,i like it warm and warmly warm in my heart,,True,0.20172562,0.3100816309452057,4.439795970916748,84.75764688457555
+364,love,i am feeling like mike is my sweetest angel,,True,0.024967449,0.9862929582595825,5.544754981994629,255.8918724453829
+365,love,i felt more warm and affectionate,,True,0.102626406,0.9805945754051208,4.696943759918213,109.61166046055143
+366,love,i feel love for all the other people,,True,0.03545588,0.9868993759155273,4.5542731285095215,95.03764996501344
+367,love,i feel like i am loving,,True,0.03357032,0.9011028409004211,5.3463454246521,209.84001869537695
+368,love,i feel more than loving but loving i feel less,,True,0.059479803,0.28324487805366516,6.042133808135986,420.7899626563265
+369,love,i feel very grateful he feels like a friend,,False,0.023199737,0.8765698075294495,5.395843505859375,220.48805164316843
+370,love,i am feeling quite fond i am feeling nostalgic,,True,0.034277402,0.7739266753196716,6.339412212371826,566.4632534153363
+371,love,i am feeling very nostalgic now and a bit anxious,,True,0.032863233,0.9938083291053772,4.783196449279785,119.48567016928108
+372,love,i felt that i needed to express how i felt,,False,0.02035702,0.993050217628479,3.9114456176757812,49.971138945193346
+373,love,i feel a bit tenderly toward him,,True,0.077668175,0.9810718894004822,5.313731670379639,203.10674339616497
+374,love,i am happy,,False,0.021785567,0.9882194995880127,6.875446319580078,968.2073990847877
+375,love,i feel like i am feeling a little sad that im feeling the warmth of tears now,,False,0.038519915,0.7893120646476746,4.42700719833374,83.68060233224102
+376,love,i am feeling like i am going away,,False,0.039462693,0.9924874305725098,4.848235607147217,127.51520433144744
+377,love,i think i feel very special,,False,0.029327808,0.9910030364990234,5.836588382720947,342.60849549960614
+378,love,i think i love it,,True,0.028620722,0.9866401553153992,5.223433017730713,185.57015743291632
+379,love,i hear the voice i have been feeling since i first fell for,,False,0.039226998,0.7028675079345703,4.212067127227783,67.49591835448881
+380,love,i think i m still feeling affection,,True,0.040183347,0.9800982475280762,6.5798726081848145,720.4475442825453
+381,love,i feel most like i am the only woman on the floor to,,False,0.08479069,0.4708573520183563,4.474164009094238,87.72123559266997
+382,love,i feel most like her,,False,0.033806015,0.9869372248649597,6.5332489013671875,687.6286239112719
+383,love,"i feel like she can smell the tea on my breath and i can feel it all around her
+--- i am loving this",,True,0.30514878,0.6693583130836487,4.251617908477783,70.2189282921054
+384,love,"i think im feeling a little nostalgic
+i am thinking i would like to get married with mike again",,True,0.11067997,0.9685571789741516,4.424723148345947,83.48968976342819
+385,love,i feel love when i am being kind,,True,0.02873857,0.9900423288345337,5.809208393096924,333.3551349739017
+386,love,i am feeling love and joy in the world of music,,False,0.029327808,0.9760072827339172,4.4156084060668945,82.73216034551143
+387,love,i am feeling very romantic,,True,0.048099842,0.993505597114563,6.806854248046875,904.0224987198164
+388,love,i m thinking maybe we do,,False,0.01834645,0.8664054870605469,7.042438507080078,1144.1742846750462
+389,love,im thinking about julian but i think i feel happy for my daughter,,False,0.034748793,0.9644115567207336,4.779637813568115,119.06121987630156
+390,love,i think i have to have sex with him,,False,0.5721988,0.9896929860115051,3.6883726119995117,39.97973145233369
+391,love,i am feeling a sweet nostalgic,,True,0.029563503,0.12516596913337708,6.826850891113281,922.2818685641088
+392,love,i think i need to start feeling grateful again :),,False,0.017089844,0.9937272071838379,4.769804954528809,117.89624458939937
+393,love,"i feel grateful i know this is an old feeling i can feel
+i feel my love is still felt",,False,0.025556687,0.5716975331306458,4.8897809982299805,132.9244601713471
+394,love,i think i will get excited,,False,0.20219094,0.9923713207244873,5.543929100036621,255.6806232102028
+395,love,i feel like i am having another heart attack,,False,0.11129999,0.989759087562561,4.235586643218994,69.1022051851613
+396,love,i feel i m a lot closer to his vision than to the old world view,,False,0.03309893,0.9901382923126221,4.739037990570068,114.32416783432033
+397,love,"i am feeling very grateful about i love my friends, but they are all good but i want a little more than just one",,False,0.048099842,0.6757264733314514,3.981678009033203,53.60691168085534
+398,love,i feel like hes been in pain so long i cant bear i feel i dont have a heart,,False,0.063027434,0.40317824482917786,4.218647003173828,67.94149744409016
+399,love,i'm feeling kind of nostalgic about our conversation last night,,True,0.032391842,0.993911862373352,4.001650810241699,54.68835565409274
+400,sadness,i feel the same way now,,False,0.014639461,0.9893614649772644,4.334284782409668,76.27038945342495
+401,sadness,i feel lonely and lonely but lonely but also lonely because i feel lonely,,True,0.045131154,0.25553861260414124,4.1502790451049805,63.45170371530692
+402,sadness,i just feel like im like i need to go,,False,0.037105743,0.6604098677635193,4.415008544921875,82.68254741899779
+403,sadness,i feel like my face is being torn apart in every way,,True,0.15545623,0.986868679523468,3.877716302871704,48.313755007119106
+404,sadness,i feel like the world doesnt want me to be alive i feel,,False,0.19599396,0.39976969361305237,4.010835647583008,55.19297317264477
+405,sadness,i feel lonely but not so much lonely,,True,0.040183347,0.7726256847381592,4.972716808319092,144.41871283303252
+406,sadness,i feel like im getting stuck at a point in life where my feelings are not valued,,False,0.09112182,0.986856997013092,3.789228916168213,44.22228803466651
+407,sadness,i like to do my job,,False,0.036870047,0.9927005171775818,4.6030402183532715,99.7872299136574
+408,sadness,i feel like im going to die right away,,True,0.2820025,0.9902551770210266,4.08376932144165,59.36882882900556
+409,sadness,i feel really ugly and feel i am not worth a second glance,,True,0.2763787,0.9882551431655884,4.603160858154297,99.799268951398
+410,sadness,i feel as if i was betrayed,,True,0.09872158,0.9917019009590149,5.038987636566162,154.3137143609423
+411,sadness,i feel i was made to be useless because i was made to be weak,,True,0.28312725,0.9880272150039673,3.721080780029297,41.30901595053872
+412,sadness,i want to have sex and i just can not,,False,0.51980776,0.9868617653846741,4.178056716918945,65.23895219961275
+413,sadness,i feel like i could be very lonely because i feel like its a lonely thing to have a lot to do,,True,0.042657252,0.9608687162399292,3.512938976287842,33.54671604752453
+414,sadness,i feel lonely and alone sometimes in the room,,True,0.043399423,0.9679057598114014,4.894618511199951,133.56904180043185
+415,sadness,i felt like i lost my self esteem,,True,0.06025757,0.9911171197891235,4.688388347625732,108.6778876147144
+416,sadness,i feel it isnt fair i feel like i am going through a lot of self harm now,,False,0.11479026,0.9894964098930359,3.873004913330078,48.08666546078105
+417,sadness,i feel depressed,,True,0.046120718,0.9898889660835266,8.806351661682129,6676.51658817283
+418,sadness,i feel like i am alone and alone but i feel alone even i feel like im with someone else,,True,0.035691574,0.31740784645080566,3.6784467697143555,39.58486189177651
+419,sadness,i can barely function as i do without thinking it in such an ugly way,,True,0.29405528,0.8698634505271912,5.068079948425293,158.86899764361632
+420,sadness,i felt lonely,,True,0.036870047,0.9890227317810059,8.259613990783691,3864.602040520126
+421,sadness,i feel like so worthless i feel like i dont matter any more,,True,0.2553839,0.3578711152076721,4.114528179168701,61.223321008855166
+422,sadness,i just feel lonely and empty,,True,0.043646812,0.9900414347648621,5.8486504554748535,346.76608828327505
+423,sadness,i feel like i just need a good cry,,False,0.06381883,0.9917982816696167,4.231085777282715,68.79188430393131
+424,sadness,i feel like i feel like i dont feel a thing anymore,,False,0.04290464,0.6851674318313599,3.729092597961426,41.64130560996642
+425,sadness,i want a new heart and I don't feel like one,,False,0.05354243,0.8583663105964661,3.863678216934204,47.64026070809342
+426,sadness,i feel like i dont have anyone in me,,False,0.061444655,0.9214732646942139,4.359673500061035,78.23158764420937
+427,sadness,i feel really depressed,,True,0.05230548,0.9924503564834595,7.372132778167725,1591.0234671524988
+428,sadness,i feel like i've lost so much,,True,0.06421452,0.99289470911026,3.9311535358428955,50.96573457517949
+429,sadness,i felt as I had felt when i met you,,False,0.11057663,0.9864252805709839,4.571081638336182,96.64859207895485
+430,sadness,i feel like im not good enough for this,,False,0.04785245,0.9926018118858337,3.6324265003204346,37.80443789336107
+431,sadness,i can feel so lonely feeling like all that i feel was just a bad dream,,True,0.059232414,0.7971913814544678,4.484493732452393,88.63206791287975
+432,sadness,i feel like I have been a slave,,True,0.2854971,0.9922775030136108,3.934765577316284,51.15015779383227
+433,sadness,i feel like a prisoner in a world of lies and deceit,,False,0.25084448,0.993953287601471,3.757215976715088,42.82902284845768
+434,sadness,i feel that i may not have made it,,True,0.025085296,0.9921426773071289,4.257411956787109,70.62696109423766
+435,sadness,i feel like i can not even express feelings anymore,,True,0.046368107,0.9929636120796204,4.729860305786133,113.27973671954308
+436,sadness,"im thinking of how bad it feels to lose
+i just want you to feel like you can find someone better",,True,0.10739898,0.8834962844848633,3.8638203144073486,47.64703074975151
+437,sadness,i feel like i might be missing a little,,True,0.030506283,0.8149022459983826,4.057575225830078,57.83390676011147
+438,sadness,i dont know if i want to come back to you,,False,0.09568449,0.9920803904533386,3.3096823692321777,27.37642849475955
+439,sadness,i feel as if he needs to find me,,False,0.041172907,0.9929087162017822,4.353813171386719,77.77446557893585
+440,sadness,i feel so lonely but i know they are in my head so i feel sorry not to be alone,,True,0.067380086,0.7043174505233765,3.6043179035186768,36.75660375460527
+441,sadness,i feel i cant be honest with the other women,,False,0.30136615,0.9907497763633728,4.630555629730225,102.57103979950695
+442,sadness,i feel a lot of the time im a mess and feel like a loser even when i get the job done,,True,0.32712606,0.9576503038406372,3.327434778213501,27.866765504083215
+443,sadness,i feel as if the world is in total decay with no sense or joy,,True,0.11357342,0.9727856516838074,4.161194801330566,64.14812109126778
+444,sadness,i feel so empty and empty feeling like a loser,,True,0.4014846,0.4539492428302765,4.554948806762695,95.1018865375112
+445,sadness,i feel like it is a bit harsh but i feel bad about my parents not wanting to feel happy about me,,False,0.09741997,0.9783541560173035,3.878948450088501,48.37332135560331
+446,sadness,i love so much about people i feel like a monster,,False,0.25462922,0.9712393879890442,4.958325386047363,142.35520616542433
+447,sadness,i feel like i want to die now i hate myself so much,,False,0.5559701,0.9721521735191345,3.6362855434417725,37.95060870770677
+448,sadness,i feel like I need to have a better relationship with others who feel,,False,0.046120718,0.8304896354675293,3.5425288677215576,34.55419177415987
+449,sadness,i feel like i want to crawl away but i have to go through doors and halls and corridors,,False,0.09958932,0.9945377707481384,3.701660633087158,40.51452829366964
+450,sadness,i see all i see of them so beautiful as a group,,False,0.034277402,0.44737696647644043,5.306149005889893,201.57247736892347
+451,sadness,"i think i felt so bad
+i feel really bad",,True,0.11450345,0.749334454536438,4.9932403564453125,147.413322126113
+452,sadness,i feel i am just a part of society i have to do something to prove i are not,,False,0.025910228,0.6771059036254883,3.583583354949951,36.00231906847061
+453,sadness,i can be so kind to them i feel like i'm afraid but i know im wrong,,False,0.044636376,0.9824199676513672,4.036314964294434,56.617321066034606
+454,sadness,i feel like i have a little child inside me,,False,0.36095104,0.9936329126358032,3.792116403579712,44.3501638657526
+455,sadness,i am still really upset for my children,,False,0.1100022,0.9850232601165771,5.309295654296875,202.2077540557381
+456,sadness,i feel i feel a great need to feel that we can just make it out okay,,False,0.027088705,0.7478575110435486,4.513556480407715,91.24575587369394
+457,sadness,i am thinking of my mother,,False,0.08637348,0.9934066534042358,4.954472541809082,141.80778896334058
+458,sadness,i feel very sad that im no more happy with my life,,True,0.07054565,0.8969169855117798,4.452681064605713,85.85682339411106
+459,sadness,i feel the same with it but the pain just intensitewhere i cant find the other things to do,,False,0.022021262,0.17648766934871674,4.652407169342041,104.83704259828886
+460,sadness,i feel so un-fearful,,False,0.041172907,0.9908080697059631,4.7572526931762695,116.42562919823914
+461,sadness,i'm so emotional and emotional i donít know what i feel anymore,,True,0.0414203,0.556598961353302,3.8738341331481934,48.12655641366679
+462,sadness,i feel depressed with what i dont feel,,True,0.050821137,0.6933882236480713,5.817965030670166,336.2870230804005
+463,sadness,"i think i should stay in our own bed in the end
+i felt like i needed someone to be",,False,0.104361884,0.411650687456131,4.262337684631348,70.97570849531358
+464,sadness,i feel sad and i feel very sad,,True,0.034277402,0.9886643290519714,4.575905799865723,97.11596693823834
+465,sadness,i dont want anything and want it to feel so bad,,True,0.2786282,0.6656539440155029,4.699553489685059,109.89809086405812
+466,sadness,i feel like i was abandoned by my parents,,True,0.07687678,0.9931562542915344,3.8403115272521973,46.53997065086377
+467,sadness,i feel i will be in a bad mood all day,,True,0.112540044,0.9897172451019287,3.6890716552734375,40.0076887852531
+468,sadness,just felt like i wanted it a lot more i feel so ashamed about being so weak and pathetic,,True,0.5024724,0.9739651679992676,3.84997820854187,46.992039195367134
+469,sadness,i feel like i've been cheated,,True,0.16851899,0.9931273460388184,4.179614543914795,65.34066240341147
+470,sadness,i feel a deep shame,,True,0.112643376,0.9900293946266174,6.014860153198242,409.46857204221067
+471,sadness,i feel like my feelings have gone,,False,0.036870047,0.9633671641349792,4.932365417480469,138.7072250933245
+472,sadness,i get confused and frustrated,,False,0.104361884,0.9923911690711975,6.337142467498779,565.1789843830052
+474,sadness,i feel so bad i feel ashamed,,True,0.147767,0.9872095584869385,5.133039474487305,169.53162277900867
+475,sadness,i can relate,,False,0.01633588,0.9870246648788452,7.111491680145264,1225.9749452898195
+476,sadness,i feel so bad that i cant even feel sad,,True,0.09033044,0.9885826110839844,3.978367328643799,53.429729787761445
+477,sadness,i feel like a loser who is not getting anything done,,True,0.39842087,0.9822225570678711,3.9248898029327393,50.647496545727655
+478,sadness,i feel like its wrong to feel that way because the way the world is,,False,0.0438942,0.37004178762435913,3.701719284057617,40.51690457975681
+479,sadness,i think of a time in my past when i had my heart broken a little,,True,0.050821137,0.9848447442054749,3.5247199535369873,33.944266313345786
+480,sadness,i feel like a loser who is not valued or appreciated,,False,0.4274071,0.9871626496315002,4.132515907287598,62.334553775917406
+481,sadness,i feel like i can't even see or play with it anymore,,True,0.05255287,0.990974485874176,3.878690481185913,48.36084415241307
+482,sadness,i feel like a broken girl,,True,0.19870108,0.9942089319229126,5.369771480560303,214.81377297195988
+483,sadness,i feel i'm the only one i felt happy to know in my life,,False,0.03781283,0.8716188669204712,3.999384641647339,54.56456294059033
+484,sadness,i feel like i should really leave,,True,0.045873325,0.9938260912895203,4.930751800537109,138.4835852477949
+485,sadness,i felt like a little baby in front of my parents,,False,0.165053,0.9912896156311035,3.743614912033081,42.25044608756814
+486,sadness,i feel it in my head its so dark,,False,0.0969861,0.9349480271339417,5.109742164611816,165.62764469980405
+487,sadness,"i dont believe in anything or can't think of anything even when i think
+i felt like i was a child of sorrow",,True,0.09394901,0.6082243919372559,3.9957258701324463,54.365288444207
+488,sadness,i feel like i am too much,,False,0.032863233,0.9836606383323669,4.4251708984375,83.52708064992522
+489,sadness,i feel just very disheart,,True,0.1013248,0.6894372701644897,6.42181396484375,615.1179049785542
+490,sadness,i felt like i would feel ashamed i feel like i could be hurt even when i feel so strong and so strong i feel,,True,0.12260055,0.42509716749191284,3.661487579345703,38.91919522164644
+491,sadness,"i feel like im a failure to myself
+it feels like im missing me i feel sad i feel scared i feel a lot of feelings like a failure i feel like",,True,0.11119666,0.31317779421806335,3.5334205627441406,34.24089064433675
+492,sadness,i feel very low and a lot less confident,,True,0.059232414,0.9876061081886292,4.715734004974365,111.69076266901577
+493,sadness,i feel like i have to hide i feel like i have to hide all my pain that my self esteem has a,,True,0.054531995,0.5898677110671997,3.3663690090179443,28.9731346435236
+494,sadness,i feel so empty and empty,,True,0.077668175,0.7362465858459473,4.845856666564941,127.21221377816218
+495,sadness,i feel just a very bad feeling,,True,0.081625134,0.9086529016494751,5.506458759307861,246.27745329691516
+496,sadness,i think i feel a shame for wanting to see my face in my mirror,,True,0.18459146,0.9918602108955383,4.385127067565918,80.2484195364156
+497,sadness,i feel like being left out is a loss because im so empty and empty feeling,,True,0.08479069,0.3336441218852997,4.473786354064941,87.68811348163185
+498,sadness,i feel like im like a victim because ipsis,,True,0.25462922,0.4124354422092438,5.6223859786987305,276.5484353558881
+499,sadness,i felt so lonely i felt like being depressed so i feel so lost,,True,0.09611836,0.8394579887390137,4.598476886749268,99.33290509951237
+500,surprise,i can just feel myself bein weirdly uncomfortable,,False,0.08795626,0.7433599829673767,5.543184280395508,255.49025816279743
+501,surprise,i feel curious,,True,0.02048268,0.9906408190727234,9.805825233459473,18139.10226981147
+502,surprise,i want to see this,,False,0.06579731,0.9926753640174866,4.259374618530273,70.76571404682899
+503,surprise,i start to feel very much like i couldnt see the ground or the ceiling,,False,0.032863233,0.9719560742378235,4.291210651397705,73.0548589509232
+504,surprise,"i feel like i can't think and still i can't see the right part or feel the right part
+(i think i could feel that way but couldnt",,False,0.035220183,0.5733222961425781,3.6181116104125977,37.2671264790418
+505,surprise,i feel i dont want you anymore i just dont want you to get sick from this,,False,0.3048984,0.9625498056411743,3.4937455654144287,32.9089798867422
+506,surprise,i think it is so strange for my feeling to look into the sky,,True,0.032391842,0.1621243804693222,4.599946975708008,99.47904069638393
+507,surprise,i dont know why but im like i dont like this,,False,0.09611836,0.8866109848022461,3.7357852458953857,41.92093088093403
+508,surprise,i feel confused by this so i dont know what to do,,False,0.029092113,0.9807161092758179,3.658060312271118,38.786037059927025
+509,surprise,i feel strange with it like i cant find it,,False,0.037577134,0.5448442697525024,5.0523529052734375,156.39000278770075
+510,surprise,i feel like my mouth open,,False,0.15435068,0.06721937656402588,6.2110395431518555,498.21890222788096
+511,surprise,if i can imagine what it feels like,,False,0.024967449,0.6073164939880371,4.038170337677002,56.72246484685666
+512,surprise,i really feel confused now,,False,0.02685301,0.9917590022087097,7.376689910888672,1598.2905181358542
+513,surprise,i felt so confused and curious how can i feel so like,,False,0.034748793,0.20704205334186554,4.9264936447143555,137.89515426743242
+514,surprise,i feel strange to think i can see what i have seen,,False,0.03357032,0.9836722016334534,4.668403625488281,106.5275487585389
+515,surprise,i dont feel that weird i have just felt in it,,True,0.049831573,0.022258512675762177,5.685425281524658,294.54308214944126
+516,surprise,i feel more dazed than confused about what it all mean,,True,0.0466155,0.7708094120025635,4.705542087554932,110.55820093097051
+517,surprise,i feel like its not so well i was feeling this,,False,0.031331215,0.04170975461602211,5.482710838317871,240.49777508997087
+518,surprise,(he felt a little bit confused),,False,0.025910228,0.9499386548995972,4.629226207733154,102.43477020290456
+519,surprise,i feel like I'm in a foggy room and that's a bit like,,False,0.10175867,0.6617782115936279,3.524061918258667,33.92193713611382
+520,surprise,i feel i like the way you feel in a trance with someone,,False,0.31825066,0.8912991285324097,4.524440288543701,92.2442811959964
+521,surprise,i dont know,,False,0.017466826,0.9760253429412842,6.190501689910889,488.0909150879307
+522,surprise,"i start with being surprised i dont know this for sure
+( i can also see this with myself also )",,True,0.037577134,0.4593130052089691,4.88156270980835,131.83652522423668
+523,surprise,"i feel like i was in a car i dont remember its not even like that but
+i feel like i just got a bad trip",,False,0.055521555,0.5392329692840576,3.8102402687072754,45.161288407248435
+524,surprise,i feel more excited,,False,0.067380086,0.9915046095848083,7.05642557144165,1160.2903696522467
+525,surprise,i feel strange,,False,0.03781283,0.9883347749710083,9.074378967285156,8728.763207699061
+526,surprise,"i feel a new feeling of a connection or feeling
+if thats all i would be",,False,0.027677942,0.3863234519958496,5.237154483795166,188.13400167529304
+527,surprise,"i felt kind of confused and curious of people with this experience
+i am so grateful",,False,0.021785567,0.10369184613227844,5.187031269073486,178.9365491671501
+528,surprise,i can't quite remember what happened but the next bit i think was a good one i guess,,False,0.027913637,0.7667975425720215,3.700990915298462,40.48740407716969
+529,surprise,i could feel i might be a bit dazed and dazedly,,True,0.09785384,0.12391114234924316,4.119396686553955,61.522113946974805
+530,surprise,i'm really confused because how did that happen,,False,0.027913637,0.9324265122413635,4.354665279388428,77.84076606696081
+531,surprise,but i like this weird feeling,,True,0.0414203,0.989801824092865,5.635598659515381,280.2266274417397
+532,surprise,"i wonder if im in some kind of place i cant explain
+i feel very sad at that i cant help",,False,0.027677942,0.4779629707336426,4.3232855796813965,75.4360727981346
+533,surprise,i feel surprised to have such a wonderful thing,,True,0.02968135,0.9754496812820435,4.869081020355225,130.20120963923353
+534,surprise,i feel curious about the new way,,True,0.017341165,0.98736572265625,5.450367450714111,232.84370877737186
+535,surprise,i feel like a new life and I am happy for that,,False,0.025674535,0.6131359934806824,3.841653347015381,46.60246081915647
+536,surprise,i feel like some sort of confused and disem,,False,0.059974585,0.06873727589845657,4.852716445922852,128.08786143743515
+537,surprise,i feel kind of dazed and confused,,True,0.06817148,0.9935320615768433,4.354378700256348,77.81846172391317
+538,surprise,"i felt the most unusual, but that doesnnt feel strange or even strange it feels kind of strange to me and i felt like what i had to say, but",,False,0.041172907,0.18686392903327942,4.0007643699646,54.63989917301386
+539,surprise,and when i try to find the other direction,,False,0.01847211,0.8632664680480957,4.513337135314941,91.22574375976636
+540,surprise,its been really slow i feel,,False,0.059727192,0.4485783576965332,6.694655418395996,808.0754383003201
+541,surprise,i feel this weird feeling i was in a dream i can feel that too,,True,0.02968135,0.8195899724960327,4.325927734375,75.63565011291091
+542,surprise,and im feeling a little weird on this,,True,0.05131592,0.8928561806678772,4.461769104003906,86.64064991603748
+543,surprise,i feel it was just a thought i guess?,,False,0.016021729,0.678429126739502,5.012057304382324,150.2134532733165
+544,surprise,i cant imagine how much he would miss me,,False,0.037577134,0.9939336180686951,4.392418384552002,80.83567453034507
+545,surprise,i feel surprised to be feeling so well about me now,,True,0.022374803,0.7842234969139099,4.961236476898193,142.7702188804357
+546,surprise,"i feel so odd on the floor i feel strange but i feel really curious and nervous
+i feel like i have been here before",,True,0.0438942,0.8024885058403015,4.053339004516602,57.58942773089933
+547,surprise,"i feel dazed about a new year
+and i feel strange too",,True,0.05651112,0.8138654232025146,5.721160888671875,305.2590891619612
+548,surprise,i feel a little more surprised this feels really great,,True,0.027560094,0.40183788537979126,5.445782661437988,231.77861292409793
+549,surprise,"i feel more like some sort of odd and a little uncomfortable
+~o-o-o~O-o-o~O~o
+(~o",,False,0.09872158,0.3278827965259552,3.3278515338897705,27.878381557146213
+550,surprise,i feel strange because the whole body started feeling different,,True,0.041915078,0.7705482840538025,5.389715671539307,219.14106865241538
+551,surprise,"i feel a strange sensation like someone's mouth opening my eyes
+the same as it is when someone's mouth opens i think a little
+it seems kind of a",,True,0.13388206,0.1426001936197281,4.133923053741455,62.422329364286504
+552,surprise,"i feel like a strange sort of feeling, like a strange feeling in my heart i cant stop
+and i feel my heart is beating a strange rhythm",,True,0.04240986,0.3549087941646576,3.8939614295959473,49.10502784186572
+553,surprise,i felt so dazed,,True,0.09568449,0.9930629134178162,5.380843639373779,217.20544121355505
+554,surprise,i feel strange because i was in a really interesting mood,,True,0.032391842,0.9767395853996277,4.773655891418457,118.35113089391233
+555,surprise,i feel a new kind of curiosity it is like,,True,0.01834645,0.4106283187866211,4.9397478103637695,139.73500539590384
+556,surprise,i feel very strange,,False,0.03781283,0.9918578267097473,7.193843841552734,1331.2103454420837
+557,surprise,"i feel kind of weird for feeling that i shouldnt do that because
+i really dont feel like it",,True,0.043399423,0.915541410446167,4.2959160804748535,73.39942343457626
+558,surprise,i felt the strange feeling of a certain part of me moving out of it,,False,0.032863233,0.917148232460022,3.793795347213745,44.42468783430863
+559,surprise,i feel it's just so strange i dont know i can do anything about it,,True,0.044141594,0.9684781432151794,4.015897750854492,55.47307405437057
+560,surprise,i feel really weird i dont really want to look for it,,True,0.055026773,0.960800051689148,4.539970874786377,93.68807139464352
+561,surprise,i feel very confused i feel like maybe it's all in my head i could say,,False,0.05280026,0.8086698651313782,3.9763779640197754,53.32354422936701
+562,surprise,if i dont feel comfortable,,False,0.04290464,0.7502537369728088,4.804288387298584,122.03262015315337
+563,surprise,i feel strange and feel confused by the word,,False,0.038048524,0.7079918384552002,5.332254409790039,206.90389493713533
+564,surprise,i feel like its kind of like i have a feeling of being,,False,0.026735162,0.7999312877655029,3.852238655090332,47.09838233438119
+565,surprise,i think its odd i think maybe it is,,False,0.045873325,0.8560761213302612,5.136303901672363,170.08595070644793
+566,surprise,i am feeling this weird weird feeling,,True,0.09351514,0.9816769361495972,5.493211269378662,243.0364104548106
+567,surprise,i am still feeling somewhat surprised,,True,0.02685301,0.9885022640228271,6.084064483642578,438.80910749448526
+568,surprise,if i could see it i would feel,,False,0.034041706,0.15098950266838074,4.085038661956787,59.44423593729846
+569,surprise,i am in the most unexpected place of a place to find me with an unexpected perspective,,True,0.055521555,0.023479696363210678,4.492348670959473,89.33100883133709
+570,surprise,i feel sad about what it meant to be docked,,False,0.079250954,0.992580771446228,4.519221305847168,91.76411397069079
+571,surprise,i feel the best of i want it to be,,False,0.02449606,0.05506632849574089,4.514429092407227,91.32541276489881
+572,surprise,it felt good to be out of this strange space,,False,0.10089093,0.9947392344474792,3.8420677185058594,46.62177555176697
+573,surprise,i feel that i have a certain time to explain,,False,0.020960633,0.9905239939689636,4.728320121765137,113.10539936940856
+574,surprise,i feel more i feel strange and dazed but in this strange,,True,0.09785384,0.03558985888957977,5.582923412322998,265.84765318562756
+575,surprise,i really feel weird and scared by this but i feel,,True,0.054531995,0.31208503246307373,4.777752876281738,118.83700832233933
+576,surprise,i feel strange like when it was a dream and a new one i was in an other world,,False,0.026617315,0.049370378255844116,4.440524578094482,84.8194244175075
+577,surprise,"i am thinking the more i do, the more i want to stay in this place",,False,0.026499467,0.9476503133773804,3.1934196949005127,24.371628634827005
+578,surprise,i could feel myself feeling a bit dazed,,True,0.08953904,0.9936560392379761,4.384186744689941,80.17299557875846
+579,surprise,i feel sort of nervous because im like,,False,0.048099842,0.5681847333908081,6.128134727478027,458.5799857818097
+580,surprise,it is weird like i cant see,,False,0.055768944,0.7513987421989441,5.662946701049805,287.9960316505315
+581,surprise,my head is really dazed i think i'm going on,,True,0.11192002,0.847403883934021,4.648205280303955,104.39745317797068
+582,surprise,i feel curious to know the truth,,True,0.01608456,0.991786539554596,4.8870530128479,132.56233834317865
+583,surprise,i feel strange i know i am not so crazy on being surprised by that,,True,0.1537979,0.11363475769758224,5.253291130065918,191.19448003025826
+584,surprise,i get the same feeling in it i felt in this kind of feeling,,False,0.022610499,0.02178306132555008,4.621004581451416,101.59604238187713
+585,surprise,i feel i could have seen this,,False,0.028620722,0.9876320362091064,5.044652462005615,155.19035528030057
+586,surprise,i feel strange feeling the sound of them all and their feeling i cant quite find what to,,True,0.050821137,0.07615706324577332,5.285248756408691,197.4032826726922
+587,surprise,i feel confused about why i am still so curious,,False,0.025556687,0.9911394715309143,4.915033340454102,136.32385482600236
+588,surprise,"i feel sad and a bit of a jolt i can get confused by all the strange things
+this is what i want to do",,False,0.08637348,0.6524443030357361,4.098437309265137,60.24606802619374
+589,surprise,i feel strange to hear the music at the end,,True,0.03875561,0.9511579275131226,4.823720932006836,124.4272156883291
+590,surprise,i can sense the weight and the weight felt like this,,False,0.06500591,0.7284896373748779,5.114914894104004,166.4866113881356
+591,surprise,i feel the feeling of the same things i feel on an airplane in the air,,False,0.028031485,0.5967773795127869,3.989241123199463,54.013883922839796
+592,surprise,i'm feeling a bit of a strange feeling,,True,0.037105743,0.9835055470466614,3.555469512939453,35.00425105889479
+593,surprise,i feel a bit of anxiety that i might not be doing that well i think,,False,0.025792383,0.8094354867935181,3.7321979999542236,41.770819595804284
+594,surprise,i feel the most confused in feeling this is not me,,False,0.02968135,0.6807108521461487,5.37155294418335,215.19679696459622
+595,surprise,i think it must be some new way to get,,False,0.018974753,0.7685753703117371,3.832557201385498,46.18048015715969
+596,surprise,i feel i like being around people i know it is very odd to be able to be a part of them and also that is not a strange or strange like feeling,,True,0.044636376,0.3974483013153076,3.679517984390259,39.62728849672247
+597,surprise,i feel that it is so unusual i have to explain the story to some and others dont even hear it,,True,0.031684756,0.9621355533599854,4.139764785766602,62.78805106886918
+598,surprise,i feel so i just feel i could have made up if it happened,,False,0.038048524,0.06145599111914635,4.901655197143555,134.5122398015643
+599,surprise,"i am not really feeling it
+i want to get out of it but i just can't",,False,0.050573748,0.9266357421875,3.437129020690918,31.097549463378755

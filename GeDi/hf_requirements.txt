@@ -1,0 +1,8 @@
+transformers==2.8 
+datasets 
+jsonlines
+tensorboardX
+tensorboard
+scikit-learn
+seqeval
+torch

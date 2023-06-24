@@ -1,0 +1,10 @@
+human evaluation용 데이터 (6/9)
+
+
+sentiment = 10 shot
+news = 5 shot
+emotion = 30 shot(non-toxic)
+
+GeDi omega=30
+DisCup top-k=10
+

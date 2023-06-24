@@ -1,0 +1,9 @@
+__pycache__/
+pretrained_models/
+scripts/apex/
+.ipynb_checkpoints
+*.jsonl
+gedi_detoxifier/
+gpt2-emotion/
+gpt2-news-category/
+gpt2-yelp-polarity/

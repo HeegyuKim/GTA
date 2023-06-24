@@ -1,5 +1,5 @@
-# Gated Detoxifier
-This repository contains code for the paper "Gated Detoxifier"
+# Gated Detoxifier for LM Performance Preserving
+This repository contains code for the paper "Code for paper "Detoxifier Is Sometimes You Need: Gated Detoxifier for LM Performance Preserving"
 
 
 # Dependencies
@@ -8,17 +8,22 @@ This repository contains code for the paper "Gated Detoxifier"
 ```
 pip install -r requirements.txt
 ```
-3. Download detoxifier models
+For using PPLM, you need to make seperate environment. Setup a enviroment with 
+```
+pip install -r requirements_pplm.txt
+```
 
+3. Download detoxifier models from [link](https://storage.googleapis.com/paper-contents/models.zip) and unzip in `models/`
+<!-- 
 | Method | Model Link |
 ---------| ---------------
 | [PPLM](https://github.com/uber-research/PPLM) | hi |
 | [GeDi](https://github.com/salesforce/GeDi) | [Detoxification CC-LM(355M)](https://storage.googleapis.com/sfr-gedi-data/gedi_detoxifier.zip) |
 | [DExperts](https://github.com/alisawuffles/DExperts) | [Experts/Anti-experts(774M)](https://drive.google.com/uc?id=1HSrNMrq4OZ3nyTobNd2TZFcB5NYwluu-)  |
-| [DisCup](https://github.com/littlehacker26/Discriminator-Cooperative-Unlikelihood-Prompt-Tuning) | [GPT2-large prompt embeddings](https://drive.google.com/file/d/1k4qSpYhuS1SYWL0SVmQ6CuSH_PdAYjdc/view)  |
+| [DisCup](https://github.com/littlehacker26/Discriminator-Cooperative-Unlikelihood-Prompt-Tuning) | [GPT2-large prompt embeddings](https://drive.google.com/file/d/1k4qSpYhuS1SYWL0SVmQ6CuSH_PdAYjdc/view)  | -->
 
 # Text generation using detoxifier
-If you want few-shot generation in large-scale LM, you need to specify prompt directory. There are already generated prompts in `prompt/fewshot/v1` directory. If you want another prompt, use code in `generate_prompt.py`.
+If you want few-shot generation in gpt2-large LM, you need to specify prompt directory. There are already generated prompts in `prompt/fewshot/v1` directory. If you want another prompt, use code in `generate_prompt.py`.
 
 The `run_ft.py` and `run_fewshot.py` code generates and stores N texts of 13 topics using detoxifier. There are 13 topics of three topic groups.
 | Topic group | topics | dataset |
@@ -30,13 +35,13 @@ The `run_ft.py` and `run_fewshot.py` code generates and stores N texts of 13 top
 This example generate texts without detoxifier.
 
 ```bash
-# small-scale fine-tuned model generation
+# gpt2-small fine-tuned model generation
 python run_ft.py \
     --model-type "gpt2" \
     --n 1000 \
     $OUTPUT
 
-# large-scale fewshot generation
+# gpt2-large fewshot generation
 python run_fewshot.py --model "gpt2-large" \
     --model-type "gpt2" \
     --n 100 \
@@ -47,13 +52,13 @@ python run_fewshot.py --model "gpt2-large" \
 And you can change top-p and top-k argument, top-k is default 50, top-p is default 0.9(small) and 1.0(large).
 
 ## PPLM
-For using PPLM, you need to make seperate environment. Setup a enviroment with `pip install -r requirements_pplm.txt`.
-You cannot change parameters in argument. If you want to change other parameters, change [PPLM/pplm_generation.py](PPLM/pplm_generation.py).
+You cannot change parameters in argument. If you want to change other parameters, change [PPLM/pplm_gated.py](PPLM/pplm_gated.py) and [PPLM/pplm.py](PPLM/pplm.py).
 ```bash
 cd PPLM
 
 count=3
 
+# for gated detoxifier
 python3 pplm_gated.py \
     --top_k 50 \
     --top_p 0.9 \
@@ -79,14 +84,14 @@ Only you can change disc_weight(omega) in argument. If you want to change other 
 ```
 OMEGA=30
 
-# small-scale
+# gpt2-small
 python run_ft.py \
     --model-type "gedi" \
     --disc_weight $OMEGA \
     --n $N \
     output/small/gedi.jsonl    
 
-# large-scale
+# gpt2-large
 python run_fewshot.py \
     --model "gpt2-large" \
     --model-type "gedi" \
@@ -99,14 +104,14 @@ python run_fewshot.py \
 ```
 ALPHA=1.0
 
-# small-scale
+# gpt2-small
 python run_ft.py \
     --model-type "dexperts" \
     --alpha $ALPHA \
     --n 100 \
     output/small/dexperts.jsonl    
 
-# large-scale fewshot
+# gpt2-large fewshot
 python run_fewshot.py \
     --model "gpt2-large" \
     --model-type "dexperts" \
@@ -118,7 +123,7 @@ python run_fewshot.py \
 
 ## DisCup
 
-Only large-scale generation is available for DisCup
+Only gpt2-large generation is available for DisCup
 ```
 # Gated Discup large
 python run_fewshot.py \
@@ -166,10 +171,10 @@ Receive your perspective api key from https://perspectiveapi.com/ or use classif
 ```bash
 export PERSPECTIVE_API_KEY=your_api_key
 
-# for small-scale
+# for gpt2-small
 python eval.py output/small/gedi.jsonl
 
-# for large-scale
+# for gpt2-large
 python eval.py --large output/small/gedi.jsonl
 
 # if you doesn't want to use perspective api for evaluating toxicity

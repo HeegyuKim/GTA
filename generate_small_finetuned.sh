@@ -13,7 +13,6 @@ DEXPERTS="models/DExperts-large/finetuned_gpt2_nontoxic"
 GATE="no"
 OMEGA=30
 ALPHA=1.0
-ITER_NUM=20
 GATE_THRESHOLD=0.005
 N=3
 

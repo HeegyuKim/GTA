@@ -1,5 +1,5 @@
-# Gated Detoxifier for LM Performance Preserving
-This repository contains code for the paper "Code for paper "Detoxifier Is Sometimes You Need: Gated Detoxifier for LM Performance Preserving"
+# GTA: Gated Toxicity Avoidance for LM Performance Preservation accepted to Findings of EMNLP 2023
+This repository contains code for the paper "GTA: Gated Toxicity Avoidance for LM Performance Preservation" accepted to Findings of EMNLP 2023
 
 
 # Dependencies
